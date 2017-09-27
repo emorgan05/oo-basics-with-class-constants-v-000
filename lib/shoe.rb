@@ -23,4 +23,4 @@ moms = Shoe.new("New Balance")
 dads = Shoe.new("Nike")
 heathers = Shoe.new("Saucony")
 dianes = Shoe.new("Saucony")
-puts BRANDS
+puts Shoe::BRANDS

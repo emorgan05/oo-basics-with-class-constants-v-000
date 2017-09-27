@@ -15,5 +15,12 @@ class Shoe
     self.condition = "new"
     puts "Your shoe is as good as new!"
   end
-
 end
+
+mine = Shoe.new("Saucony")
+kims = Shoe.new("Converse")
+moms = Shoe.new("New Balance")
+dads = Shoe.new("Nike")
+heathers = Shoe.new("Saucony")
+dianes = Shoe.new("Saucony")
+puts BRANDS
